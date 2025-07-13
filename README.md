@@ -12,10 +12,9 @@
 
 - **Business Problem:** Healthcare professionals are trying to identify the main causes of in-hospital mortality for admitted patients. By having a clear understanding of the causes early on, healthcare professionals will be in a better position to develop targeted interventions, and implement evidence-based protocols to address the factors that contribute to in-hospital patient deaths. 
 
-- **My Appraoch To Solving The Problem:** To tackle the business problem of identifying the main causes of in-hospital mortality for admitted patients, I wanted to do a comprehensive analysis leveraging SQL and Tableau. My approach involved obtaining the dataset, importing it into Excel, cleaning the data, then importing it to MySQL and conducting insightful queries to extract valuable information. Using my SQL skills, I delved into the dataset, exploring various patient attributes such as age, ethnicity, gender, weight, BMI, heart rate, and comorbidities. After executing the queries with SQL, I uncovered insightful patterns, trends, and correlations within the data. To present my findings in a visually appealing manner, I used Tableau to design an interactive dashboard. The dashboard summarized the key insights derived from my SQL analysis, showcasing patterns and trends related to in-hospital mortality. 
+- **The Solution:** Perform a comprehensive analysis leveraging SQL and Tableau. My Approach involved obtaining the dataset, importing it into Excel, cleaning the data, then importing it to MySQL and conducting insightful queries to extract valuable information. Using my SQL skills, I read into the dataset, exploring various patient attributes such as age, ethnicity, gender, weight, BMI, heart rate, and comorbidities. After executing the queries with SQL, I uncovered insightful patterns, trends, and correlations within the data. To present my findings in a visually appealing manner, I used Tableau to design an interactive dashboard. The dashboard summarized the key insights derived from my SQL analysis, showcasing patterns and trends related to in-hospital mortality. 
 
-- **Insights I Gathered:** Below I will show the results of the SQL queries I conducted and provide explanations of the patterns and trends I found throughout the analysis.
-
+- **Insights Gathered:** 
 1: 
 
 ![Query1](https://i.ibb.co/SV4r1Rt/Screen-Shot-2023-06-29-at-4-52-19-PM.png)
